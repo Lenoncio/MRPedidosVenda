@@ -1,0 +1,54 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2021/10/26 19:12:53.000.008,=C:\Users\Leonardo\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2021/11/13 12:37:30.000.082,=C:\Users\Leonardo\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2021/11/13 14:41:15.000.146,D:\Projetos\Teste WK Tecnology\MTPedidoVenda.dproj=C:\Users\Leonardo\Documents\Embarcadero\Studio\Projects\Project1.dproj</Transaction>
+    <Transaction>2021/11/13 14:54:58.000.382,D:\Projetos\Teste WK Tecnology\View\View.PedidoVenda.pas=C:\Users\Leonardo\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2021/11/13 14:54:58.000.382,D:\Projetos\Teste WK Tecnology\View\View.PedidoVenda.dfm=C:\Users\Leonardo\Documents\Embarcadero\Studio\Projects\Unit1.dfm</Transaction>
+    <Transaction>2021/11/13 14:56:03.000.709,=D:\Projetos\Teste WK Tecnology\Unit1.pas</Transaction>
+    <Transaction>2021/11/13 14:57:31.000.020,D:\Projetos\Teste WK Tecnology\Controler\uControler.Pedido.pas=D:\Projetos\Teste WK Tecnology\Unit1.pas</Transaction>
+    <Transaction>2021/11/13 14:58:33.000.366,=D:\Projetos\Teste WK Tecnology\Unit1.pas</Transaction>
+    <Transaction>2021/11/13 14:59:44.000.633,D:\Projetos\Teste WK Tecnology\Controler\uControler.ProdutosPedidos.pas=D:\Projetos\Teste WK Tecnology\Unit1.pas</Transaction>
+    <Transaction>2021/11/13 15:24:52.000.323,=D:\Projetos\Teste WK Tecnology\Unit1.pas</Transaction>
+    <Transaction>2021/11/13 15:25:47.000.368,D:\Projetos\Teste WK Tecnology\Controler\uControler.Produtos.pas=D:\Projetos\Teste WK Tecnology\Unit1.pas</Transaction>
+    <Transaction>2021/11/13 15:26:55.000.342,=D:\Projetos\Teste WK Tecnology\Unit1.pas</Transaction>
+    <Transaction>2021/11/13 15:27:34.000.803,D:\Projetos\Teste WK Tecnology\Controler\uControler.Unidade.pas=D:\Projetos\Teste WK Tecnology\Unit1.pas</Transaction>
+    <Transaction>2021/11/13 15:39:16.000.886,=D:\Projetos\Teste WK Tecnology\Unit1.pas</Transaction>
+    <Transaction>2021/11/13 15:40:38.000.951,D:\Projetos\Teste WK Tecnology\Controler\uControler.Entidade.pas=D:\Projetos\Teste WK Tecnology\Unit1.pas</Transaction>
+    <Transaction>2021/11/13 15:43:23.000.195,=D:\Projetos\Teste WK Tecnology\Unit2.pas</Transaction>
+    <Transaction>2021/11/13 15:44:43.000.601,D:\Projetos\Teste WK Tecnology\Controler\uControler.Cidade.pas=D:\Projetos\Teste WK Tecnology\Unit2.pas</Transaction>
+    <Transaction>2021/11/13 15:46:49.000.969,=D:\Projetos\Teste WK Tecnology\Unit2.pas</Transaction>
+    <Transaction>2021/11/13 15:47:34.000.126,D:\Projetos\Teste WK Tecnology\Controler\uControler.UF.pas=D:\Projetos\Teste WK Tecnology\Unit2.pas</Transaction>
+    <Transaction>2021/11/13 18:42:48.000.631,=D:\Projetos\Teste WK Tecnology\Unit2.pas</Transaction>
+    <Transaction>2021/11/13 19:19:30.000.446,D:\Projetos\Teste WK Tecnology\Model\uModel.DataModule.pas=D:\Projetos\Teste WK Tecnology\Unit2.pas</Transaction>
+    <Transaction>2021/11/13 19:19:30.000.446,D:\Projetos\Teste WK Tecnology\Model\uModel.DataModule.dfm=D:\Projetos\Teste WK Tecnology\Unit2.dfm</Transaction>
+    <Transaction>2021/11/13 19:19:44.000.610,=D:\Projetos\Teste WK Tecnology\Unit2.pas</Transaction>
+    <Transaction>2021/11/13 19:20:15.000.343,D:\Projetos\Teste WK Tecnology\Model\uModel.Rotinas.pas=D:\Projetos\Teste WK Tecnology\Unit2.pas</Transaction>
+    <Transaction>2021/11/13 19:40:29.000.279,=D:\Projetos\Teste WK Tecnology\View\fmFundo.pas</Transaction>
+    <Transaction>2021/11/13 19:40:43.000.214,D:\Projetos\Teste WK Tecnology\View\View.dfm=D:\Projetos\Teste WK Tecnology\View\fmFundo.dfm</Transaction>
+    <Transaction>2021/11/13 19:40:43.000.214,D:\Projetos\Teste WK Tecnology\View\View.pas=D:\Projetos\Teste WK Tecnology\View\fmFundo.pas</Transaction>
+    <Transaction>2021/11/13 19:40:58.000.825,D:\Projetos\Teste WK Tecnology\View\View.Fundo.dfm=D:\Projetos\Teste WK Tecnology\View\View.dfm</Transaction>
+    <Transaction>2021/11/13 19:40:58.000.825,D:\Projetos\Teste WK Tecnology\View\View.Fundo.Fundo=D:\Projetos\Teste WK Tecnology\View\View.Fundo</Transaction>
+    <Transaction>2021/11/13 19:41:09.000.555,=D:\Projetos\Teste WK Tecnology\Unit1.pas</Transaction>
+    <Transaction>2021/11/13 19:41:28.000.862,D:\Projetos\Teste WK Tecnology\View\View.Pesquisa.dfm=D:\Projetos\Teste WK Tecnology\Unit1.dfm</Transaction>
+    <Transaction>2021/11/13 19:41:28.000.862,D:\Projetos\Teste WK Tecnology\View\View.Pesquisa.pas=D:\Projetos\Teste WK Tecnology\Unit1.pas</Transaction>
+    <Transaction>2021/11/13 21:53:37.000.743,D:\Projetos\Teste WK Tecnology\Controler\uControler.Unidade.pas=</Transaction>
+    <Transaction>2021/11/13 22:00:35.000.178,=D:\Projetos\Teste WK Tecnology\Unit1.pas</Transaction>
+    <Transaction>2021/11/13 22:10:18.000.790,D:\Projetos\Teste WK Tecnology\View\View.Servidor.pas=D:\Projetos\Teste WK Tecnology\Unit1.pas</Transaction>
+    <Transaction>2021/11/13 22:10:18.000.790,D:\Projetos\Teste WK Tecnology\View\View.Servidor.dfm=D:\Projetos\Teste WK Tecnology\Unit1.dfm</Transaction>
+    <Transaction>2021/11/14 18:36:21.000.863,=D:\Projetos\Teste WK Tecnology\Unit1.pas</Transaction>
+    <Transaction>2021/11/14 18:37:14.000.628,D:\Projetos\Teste WK Tecnology\Unit1.pas=D:\Projetos\Teste WK Tecnology\Controler\uControler.Cadastro.Inicial.UF.pas</Transaction>
+    <Transaction>2021/11/14 18:45:12.000.171,=D:\Projetos\Teste WK Tecnology\Unit1.pas</Transaction>
+    <Transaction>2021/11/14 18:46:50.000.783,D:\Projetos\Teste WK Tecnology\Unit1.pas=D:\Projetos\Teste WK Tecnology\Controler\uControler.Cadastro.Inicial.Cidades.pas</Transaction>
+    <Transaction>2021/11/14 19:46:54.306,=D:\Projetos\Teste WK Tecnology\Unit1.pas</Transaction>
+    <Transaction>2021/11/14 19:47:02.978,D:\Projetos\Teste WK Tecnology\Controler\uControler.Cadastro.Inicial.Entidade.pas=D:\Projetos\Teste WK Tecnology\Unit1.pas</Transaction>
+    <Transaction>2021/11/14 19:47:22.326,=D:\Projetos\Teste WK Tecnology\Unit1.pas</Transaction>
+    <Transaction>2021/11/14 19:47:52.346,D:\Projetos\Teste WK Tecnology\Controler\uControler.Cadastro.Inicial.Produtos.pas=D:\Projetos\Teste WK Tecnology\Unit1.pas</Transaction>
+    <Transaction>2021/11/14 22:42:19.545,=D:\Projetos\Teste WK Tecnology\Unit1.pas</Transaction>
+    <Transaction>2021/11/14 22:42:47.119,D:\Projetos\Teste WK Tecnology\Controler\uControler.Criar.MTBD.pas=D:\Projetos\Teste WK Tecnology\Unit1.pas</Transaction>
+  </Transactions>
+	<ActiveMobileDevice>
+		<NoProfile iOSSimulator="iPhone5"/>
+	</ActiveMobileDevice>
+</BorlandProject>
